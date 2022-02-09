@@ -1,8 +1,10 @@
 # NFT-Art-Generator
-Simple nft art generator 
+Simple NFT Art generator 
 
 Link:
 <a href="https://layersnfts.com">layersnfts.com</a>
+
+<hr>
 
 Free NFT Image Generator
 
@@ -11,6 +13,7 @@ The maximum allowed number of images is 10,000
 
 UPD 1.1: Added the ability to add a percentage of each photo from the total generation of all images from 1 to 100%
 
+<hr>
 
 Бесплатный генератор NFT-картинок
 
