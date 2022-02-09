@@ -6,7 +6,7 @@ Link:
 
 <hr>
 
-Free NFT Image Generator
+🇺🇸Free NFT Image Generator
 
 UPD 1.0: The algorithm generates unique images (without repetitions) by superimposing layers on top of each other.
 The maximum allowed number of images is 10,000
@@ -15,7 +15,7 @@ UPD 1.1: Added the ability to add a percentage of each photo from the total gene
 
 <hr>
 
-Бесплатный генератор NFT-картинок
+🇷🇺Бесплатный генератор NFT-картинок
 
 UPD1.0: Алгоритм генерирует уникальные картинки (без повторов), путем наложения слоев друг на друга. <br>
 Максимальное допустимое количество изображений 10,000
