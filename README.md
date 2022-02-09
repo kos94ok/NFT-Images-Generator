@@ -1,5 +1,5 @@
 # NFT-Art-Generator
-Simple NFT Art generator 
+Simple NFT Art generator without watermark!
 
 Link:
 <a href="https://layersnfts.com">layersnfts.com</a>
