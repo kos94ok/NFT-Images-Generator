@@ -18,4 +18,3 @@ UPD1.1: Добавлена возможность добавлять проце�
 
 Link:
 <a href="https://layersnfts.com">layersnfts.com</a>
-![demo_1](https://user-images.githubusercontent.com/96414688/153215901-43b04249-dcc1-4943-a4dc-8c9e492f3932.png)
