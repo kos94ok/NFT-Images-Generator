@@ -6,6 +6,10 @@ Link:
 
 <hr>
 
+<img src="demo_3.png">
+
+<hr>
+
 🇺🇸 Free NFT Image Generator
 
 UPD 1.0: The algorithm generates unique images (without repetitions) by superimposing layers on top of each other.
@@ -25,9 +29,6 @@ UPD1.1: Добавлена возможность добавлять проце�
 
 UPD1.2: Исправлены баги
 <br>
-
-<img src="demo_2.png" style="border-radius: 20px;">
-
 
 <span>Example:</span>
 
