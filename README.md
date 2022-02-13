@@ -1,7 +1,5 @@
 # Simple NFT Images Generator
 
-<hr>
-
 <img src="demo_4.png">
 
 Simple NFT Art generator without watermark!
