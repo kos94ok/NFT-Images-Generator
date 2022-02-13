@@ -1,4 +1,4 @@
-# NFT-Art-Generator
+# Simple NFT Images Generator
 Simple NFT Art generator without watermark!
 
 Link:
@@ -6,7 +6,7 @@ Link:
 
 <hr>
 
-<img src="demo_3.png">
+<img src="demo_4.png">
 
 <hr>
 
