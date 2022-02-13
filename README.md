@@ -1,12 +1,13 @@
 # Simple NFT Images Generator
-Simple NFT Art generator without watermark!
-
-Link:
-<a href="https://layersnfts.com">layersnfts.com</a>
 
 <hr>
 
 <img src="demo_4.png">
+
+Simple NFT Art generator without watermark!
+
+Link:
+<a href="https://layersnfts.com">layersnfts.com</a>
 
 <hr>
 
