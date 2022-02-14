@@ -1,4 +1,4 @@
-# Simple NFT Images Generator
+# Online NFT Images Generator
 
 <img src="demo_4.png">
 
