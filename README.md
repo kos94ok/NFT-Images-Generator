@@ -17,6 +17,12 @@ The maximum allowed number of images is 10,000
 UPD 1.1: Added the ability to add a percentage of each photo from the total generation of all images from 1 to 100%
 
 UPD 1.2: Fix Bugs
+
+UPD1.3:
+Fixed bugs. <br>
+The maximum size of the uploaded file has been increased to 10 MB. <br>
+Fixed errors related to the server response. <br>
+The generation algorithm has been optimized <br>
 <hr>
 
 🇷🇺 Бесплатный генератор NFT-картинок
