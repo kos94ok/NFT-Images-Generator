@@ -1,7 +1,5 @@
 # Online NFT Images Generator
 
-<img src="5896A377-13C0-4CAE-BB59-B01ADB76C5D2.png">
-
 Simple NFT Art generator without watermark!
 
 Link:
