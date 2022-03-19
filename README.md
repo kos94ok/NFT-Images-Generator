@@ -25,6 +25,8 @@ The generation algorithm has been optimized <br>
 UPD1.4: Added metadata. Optimized servers
 
 UPD1.5: A lot of bugs have been solved. The algorithm has been optimized.
+
+UPD2.0: Processing large amounts of data.
 <hr>
 
 🇷🇺 Бесплатный генератор NFT-картинок
@@ -45,4 +47,6 @@ UPD1.3:
 UPD1.4: Добавлены метаданные. Оптимизированы сервера
 
 UPD1.5: Решено множество ошибок. Оптимизирован алгоритм.
+
+UPD2.0: Обработка больших объемов данных.
 <br>
