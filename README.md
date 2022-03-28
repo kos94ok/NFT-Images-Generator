@@ -9,6 +9,10 @@ With this tool you don't need to be a programmer to create generative art.
 
 Version 2.0.1
 
+<p align="">
+<img src="nft-vector.png" style="width: 40%;">
+</p>
+
 <hr>
 
 <h2>Features:tada:</h2>
