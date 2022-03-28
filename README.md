@@ -4,8 +4,8 @@ This tool generates generative NFT art, based of all available traits.
 It was made with the intention to make the generative art field more accessible to anyone.
 With this tool you don't need to be a programmer to create generative art.
 
-Link:
-<a href="https://layersnfts.com">layersnfts.com</a>
+<h4>Link:
+<strong><a href="https://layersnfts.com">layersnfts.com</a></strong></h4>
 
 Version 2.0.1
 
