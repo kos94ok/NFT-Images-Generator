@@ -9,7 +9,15 @@ Link:
 
 <hr>
 
-<h1>Updates</h1>
+<h2>Features</h2>
+  <ul>
+    <li>Generate Images of an infinite amount of traits </li>
+    <li>Weight traits for different rarities </li>
+    <li>Remove duplicated combinations </li>
+    <li>Generate metadata for direct use on OpenSea </li>
+  </ul>
+
+<h2>Updates</h2>
 
 🇺🇸 Free NFT Image Generator
 
