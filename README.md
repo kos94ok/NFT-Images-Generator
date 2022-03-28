@@ -7,6 +7,8 @@ With this tool you don't need to be a programmer to create generative art.
 Link:
 <a href="https://layersnfts.com">layersnfts.com</a>
 
+Version 2.0.1
+
 <hr>
 
 <h2>Features</h2>
