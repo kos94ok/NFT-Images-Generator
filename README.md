@@ -9,6 +9,8 @@ Link:
 
 <hr>
 
+<h1>Updates</h1>
+
 🇺🇸 Free NFT Image Generator
 
 UPD 1.0: The algorithm generates unique images (without repetitions) by superimposing layers on top of each other.
