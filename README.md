@@ -1,4 +1,4 @@
-# NFT ART Generator
+# NFT ART Generator :ocean:
 
 This tool generates generative NFT art, based of all available traits.
 It was made with the intention to make the generative art field more accessible to anyone.
@@ -11,7 +11,7 @@ Version 2.0.1
 
 <hr>
 
-<h2>Features</h2>
+<h2>Features:tada:</h2>
   <ul>
     <li>Generate Images of an infinite amount of traits </li>
     <li>Weight traits for different rarities </li>
@@ -19,7 +19,7 @@ Version 2.0.1
     <li>Generate metadata for direct use on OpenSea </li>
   </ul>
 
-<h2>Updates</h2>
+<h2>Updates:tada:</h2>
 
 🇺🇸 Free NFT Image Generator
 
